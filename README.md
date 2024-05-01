@@ -1,1 +1,1 @@
-# EDA-of-Churned-Telecom-Customers
+# EDA of Churned Telecom Customers
